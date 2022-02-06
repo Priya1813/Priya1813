@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Priya</h1>
-<h3 align="center">Passionate Analytics Student from Coimbatore!!</h3>
+<p><img align ="right" src ="https://github.com/Priya1813/Priya1813/blob/main/office-desk-animation.gif" width"500" height="320"/></p>
+<h1 align="center">Hi👋, I'm Priyadharshini</h1>
+<h3 align="center">Passionate in Analytics,Problem Solving and ambitious girl from Coimbatore!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya1813&label=Profile%20views&color=0e75b6&style=flat" alt="priya1813" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya1813" alt="priya1813" /></a> </p>
+
+- I like exploring and learning new skills. I'm very Passionate and dedicated towards whatever I do and I absolutely love what I do.
 
 - 🌱 I’m currently learning **Deep Learning and Neural Networks, TensorFlow**
 
