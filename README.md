@@ -1,6 +1,6 @@
 <p><img align ="right" src ="https://github.com/Priya1813/Priya1813/blob/main/office-desk-animation.gif" width"500" height="320"/></p>
 <h1 align="center">Hi👋, I'm Priyadharshini</h1>
-<h3 align="center">Passionate in Analytics,Problem Solving and ambitious girl from Coimbatore!!</h3>
+<h3 align="center">Passionate in Analytics, Problem Solving. An ambitious girl from Coimbatore!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya1813&label=Profile%20views&color=0e75b6&style=flat" alt="priya1813" /> </p>
 
