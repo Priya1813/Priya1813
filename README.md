@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://dribbble.com/shots/9192312-Office-Desk-Animation" alt="priya1813" /> </p>
-
 <h1 align="center">Hi 👋, I'm Priya</h1>
 <h3 align="center">Passionate Analytics Student from Coimbatore!!</h3>
 
